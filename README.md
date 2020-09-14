@@ -31,5 +31,5 @@ HTML5 (WebGL with a fallback to canvas), and Java (for mobile APIs).
 
 <img src="https://github.com/Sondro/snippets/blob/master/JSX_-_GatsbyJS/preview.jpg" />
 
-- [x] Components for static rendering. Has 18 HSL-based themes, with the current saved as a string in local storage (only 18 characters per theme). The dark mode preferences of the user are also detected to auto-assign dark mode. 
+- [x] Components for static rendering. Demos 18 HSL-based themes, with the current saved as a string in local storage (only 18 characters per theme). The dark mode preferences of the user are also detected to auto-assign dark mode. 
 - [x] Uses GraphQL with interpolated CSS in JS and React-Spring for animation. Features CSS orbs with shadows and rounded triangles made via divs to create themable play buttons for media like apps, video, and other iframe-based content.
