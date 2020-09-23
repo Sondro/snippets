@@ -1,4 +1,4 @@
-# [Code Snippets]() | [Graphics]() / [Front End]() 
+# [Code Snippets]() | [Graphics]() / [Fullstack]() 
  
 #### AUTHOR: Christopher J Coggins [||]() DATE: Sep.13.2020 [||]() VERSION: 0.02 [||]() LICENSE: Not available for license.
 ----------------------------------------
